@@ -18,17 +18,17 @@ The run script compiles the six Java classes and launches Shape Manager. It adds
 
 ## Screenshots
 
-### Empty Shape Manager
-![Empty Shape Manager](assets/Empty.png)
+### Circle and Square
+![Circle and Square](assets/Circle.png)
 
 ### Entering a Circle's Radius
-![Circle radius input dialog](assets/Circle_Creation.png)
+![Circle radius input dialog](assets/Circlear.png)
 
-### Circle Created
-![Circle added to the list](assets/Circle_Created.png)
+### Rectangle Created
+![Rectangle added to the list](assets/Rectangle.png)
 
 ### Viewing the Circle's Area
-![Circle area dialog](assets/View_Circle_Area.png)
+![Circle area dialog](assets/Circlear.png)
 
 ### All Shapes Created
-![Circle, square, rectangle, and triangle in the list](assets/Create_All_Shapes.png)
+![Circle, square, rectangle, and triangle in the list](assets/Traingle.png)
