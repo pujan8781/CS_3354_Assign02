@@ -1,20 +1,25 @@
+
 # CS 3354 Assignment 2: Shape Manager
 
 ## Collaborators
 - Pujan Mijar
 
 ## About the Project
-A Java Swing application that creates Circle, Square, Rectangle, and Triangle objects. Each shape implements the `Shape` interface and has a **Show Area** button to display its calculated area.
 
-## Installation and Running (macOS)
-Make sure a Java JDK is installed. Open Terminal in the project folder and run:
+This project is a Java Swing application developed for CS 3354 Object-Oriented Design and Programming. The application allows users to create four different shapes: Circle, Square, Rectangle, and Triangle.
+
+Each shape implements the Shape interface, which contains methods to calculate the area and return the class name. The graphical user interface allows users to enter dimensions, add shapes to a list, and view their calculated areas.
+
+## Installation
+
+Make sure Java JDK is installed.
+
+Open Terminal in the project folder and run:
 
 ```bash
 chmod +x run.sh
 ./run.sh
 ```
-
-The run script compiles the six Java classes and launches Shape Manager. It adds the required package declaration to a **generated copy** of the instructor's `ShapeManager.java`, leaving the original file unchanged.
 
 ## Screenshots
 
@@ -22,13 +27,23 @@ The run script compiles the six Java classes and launches Shape Manager. It adds
 ![Circle and Square](assets/Circle.png)
 
 ### Entering a Circle's Radius
-![Circle radius input dialog](assets/Circlear.png)
+![Circle Radius Input](assets/Circlear.png)
 
 ### Rectangle Created
-![Rectangle added to the list](assets/Rectangle.png)
+![Rectangle Created](assets/Rectangle.png)
 
-### Viewing the Circle's Area
-![Circle area dialog](assets/Circlear.png)
+### Square Created
+![Square Created](assets/Square.png)
 
-### All Shapes Created
-![Circle, square, rectangle, and triangle in the list](assets/Traingle.png)
+### Triangle Created
+![Triangle Created](assets/Traingle.png)
+
+## Javadoc Documentation
+
+HTML documentation for the Java classes is included in the `docs` folder.
+
+To open the documentation on macOS, run:
+
+```bash
+open docs/index.html
+```
