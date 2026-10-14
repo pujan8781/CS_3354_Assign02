@@ -26,3 +26,4 @@ chmod +x run.sh
 
 ### All Shapes Created
 ![Circle, square, rectangle, and triangle in the list](assets/Traingle.png)
+
