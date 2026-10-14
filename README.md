@@ -1,3 +1,4 @@
+
 # OOP_Assign_02: Shape Manager
 
 ## Collaborators:
@@ -12,18 +13,19 @@ chmod +x run.sh
 ## Screenshots
 
 ### Circle and Square
-![Circle and Square](assets/Circle.png)
+![Circle and Square](assests/Circle.png)
 
 ### Entering a Circle's Radius
-![Circle radius input dialog](assets/Circlear.png)
+![Circle radius input dialog](assests/Circlear.png)
 
 ### Rectangle Created
-![Rectangle added to the list](assets/Rectangle.png)
+![Rectangle added to the list](assests/Rectangle.png)
 
 ### Square Created
-![Square added to the list](assets/Square.png)
+![Square added to the list](assests/Square.png)
 
 ### All Shapes Created
-![Circle, square, rectangle, and triangle in the list](assets/Traingle.png)
+![Circle, square, rectangle, and triangle in the list](assests/Traingle.png)
+
 
 
